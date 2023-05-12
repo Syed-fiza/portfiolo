@@ -1,0 +1,38 @@
+body{
+    text-align=Center;
+}
+header{
+    background-color: black;
+    color:aliceblue;
+    padding:10px;
+}
+nav ul li{
+    display: inline;
+    padding:10px;
+}
+li{
+    display: inline;
+    padding:10px;
+}
+nav ul li{
+
+    color:white;
+    text-decoration:none;
+}
+main p{
+    padding:10px;
+}
+#portfolio
+{
+    background-color: rgba(136, 214, 171, 0.885);
+    li[
+        display:inline;
+    ]
+}
+footer{
+    background-color: black;
+    color:white;
+}
+
+
+    
